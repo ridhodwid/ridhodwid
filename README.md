@@ -5,4 +5,4 @@
 [![ORCID Badge](https://img.shields.io/badge/ORCID-iD-A6CE39)](https://orcid.org/0000-0002-7204-1894)
 [![Scopus Badge](https://img.shields.io/badge/Scopus-SC-orange)](https://www.scopus.com/authid/detail.uri?authorId=57198350296)
 [![LinkedIn Badge](https://img.shields.io/badge/Linked-In-01649B)](https://www.linkedin.com/in/ridhodwi/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/ridhodwidh?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=ridhodwid)
+[![Twitter Badge](https://img.shields.io/twitter/follow/ridhodwid?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=ridhodwid)
